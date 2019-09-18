@@ -1,17 +1,17 @@
-# (Host) Install commands
+### (Host) Install commands
 `$ sh install-mac.sh`
 `$ sh install-linux.sh`
 
-# (Docker) Build commands
+### (Docker) Build commands
 `$ sh build.sh`
 
-# (Host-Mac) Check "Allow connetions from network clients"
+### (Host-Mac) Check "Allow connetions from network clients"
 $ open -a Xquartz
 
-# (Host-Mac) Run on a separate terminal
+### (Host-Mac) Run on a separate terminal
 `$ sh bind-socat.sh`
 
-# (Docker) Run commands
+### (Docker) Run commands
 `$ sh run-mac.sh`
 `$ sh run-linux.sh`
 
