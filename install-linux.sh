@@ -1,0 +1,3 @@
+# Install commands
+
+xhost +
